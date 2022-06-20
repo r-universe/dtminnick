@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fdistr"]
+	path = fdistr
+	url = https://github.com/dtminnick/fdistr
+	shallow = true
+	registered = true
